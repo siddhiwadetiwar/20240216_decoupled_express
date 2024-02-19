@@ -1,0 +1,36 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "ipad10",
+        "description": "Description of ipad 10 th gen",
+        "price": 49.89,
+        "stock": 40,
+        "imageUrl": "https://example.com/ipad10.jpg"
+      },
+      {
+        "id": "73",
+        "name": "iphone14",
+        "description": "Description of iphone 14",
+        "price": 29.21,
+        "stock": 90,
+        "imageUrl": "https://example.com/iphone14.jpg"
+      },
+      {
+        "id": "4",
+        "name": "watch",
+        "description": "Description of Apple watch",
+        "price": 49.99,
+        "stock": 82,
+        "imageUrl": "https://example.com/awatch.jpg"
+      },
+      {
+        "id": "9",
+        "name": "product5",
+        "description": "Description of  Apple earbuds",
+        "price": 69.19,
+        "stock": 10,
+        "imageUrl": "https://example.com/earbud.jpg"
+      }
+    ]
+  }

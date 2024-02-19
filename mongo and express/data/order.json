@@ -1,0 +1,42 @@
+[
+    {
+      "id": "1",
+      "date": "2024",
+      "address": "jubilee hills",
+      "status": "pending",
+      "totalCost": 821.12
+    },
+    {
+      "id": "3",
+      "date": "2024",
+      "address": "gachibowli",
+      "status": "pending",
+      "totalCost": 214.64
+    },
+    {
+      "id": "5",
+      "date": "2024",
+      "address": "paradise",
+      "status": "pending",
+      "totalCost": 215.46
+    },
+    {
+      "id": "14",
+      "date": "2024",
+      "address": "banjara hills",
+      "status": "pending",
+      "totalCost": 729.21,
+      "products": [
+        {
+          "id": "2",
+          "quantity": 2,
+          "price": 792.19
+        },
+        {
+          "id": "7",
+          "quantity": 9,
+          "price": 137.82
+        }
+      ]
+    }
+  ]
